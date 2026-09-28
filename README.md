@@ -23,3 +23,26 @@ If you use SecShield in your research, please cite:
   publisher={IEEE},
   doi={10.1109/ICCCN69946.2026.11662719}
 }
+
+## Dataset
+
+SecShield uses power-consumption traces from the publicly available
+IoT Malware Data dataset.
+
+Dataset:
+https://www.kaggle.com/datasets/sa05042/iot-malware-data
+
+The implementation expects the processed data files:
+
+- `benignData.npy`
+- `attackData.npy`
+
+Place both files in the same directory as `SecShield.py` before running
+the experiments.
+
+## Installation
+
+Clone the repository and install the required dependencies:
+
+```bash
+pip install -r requirements.txt
