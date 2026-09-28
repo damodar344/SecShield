@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use SecShield in your research, please cite our ICCCN 2026 paper."
+
+title: "SecShield: A Privacy-Preserved Federated Learning Model to Detect Zero-Day Malware Attack"
+
+authors:
+  - family-names: "Dhital"
+    given-names: "Damodar"
+  - family-names: "Khan"
+    given-names: "Sabir Ahmed"
+  - family-names: "Wakili"
+    given-names: "Almustapha A."
+  - family-names: "Guni"
+    given-names: "Saugat"
+  - family-names: "Jung"
+    given-names: "Woosub"
+
+doi: "10.1109/ICCCN69946.2026.11662719"
+date-released: 2026
